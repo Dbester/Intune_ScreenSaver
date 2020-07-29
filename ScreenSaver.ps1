@@ -1,7 +1,7 @@
 ﻿### Screen Saver File ####
 # Replace only the file name within the "" #
 
-$ScreenSaver = ".\ScreensaverLDC.scr"
+$ScreenSaver = ".\ScreenSaverFile.scr"
 
 ### Copy Process ###
 
